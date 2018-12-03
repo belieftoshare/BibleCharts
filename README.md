@@ -11,3 +11,9 @@
 # 聖經中的祈禱 Prayers of the Bible
 # 聖經地名6中英文譯本對照: 和合本, KJV, NIV, 新譯本, ESV, 現中修訂版. 約有900個
 # 四福音書中耶穌生平列表 Book of Jesus Chronological Listing of Events: The life of Jesus from the Gospels of Matthew, Mark, Luke, John in easy-to-read, chronological format.
+
+# 舊約歷史書平行對參(1) : 人類始祖到以色列王權的建立前夕
+# 舊約歷史書平行對參(2) : 掃羅王時期
+# 舊約歷史書平行對參(3) : 大衛王時期
+# 舊約歷史書平行對參(4) : 所羅門王時期
+# 舊約歷史書平行對參(5) : 猶大國與以色列國時期
